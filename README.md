@@ -58,4 +58,5 @@ Mutação - Método de geração de variabilidade genética que possui como prop
   
 ## Resultados da otimização
 
-![Alt text](../assets/evolution.png?raw=true "TSP")
+![Alt text](assets/evolution.png?raw=true "TSP")
+
